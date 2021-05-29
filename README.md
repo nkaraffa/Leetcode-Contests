@@ -7,7 +7,7 @@ ________________________
 
 ## Contests
 
-          ** Biweekly Contest 53 **
+          **Biweekly Contest 53**
                     - *Solved 2/4 questions, Rank: #7330 / 12291*
           **NEXT ONE!**
           
