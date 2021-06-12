@@ -1,0 +1,7 @@
+C:\Users\Nik\Desktop\Coding\MSCA - Projects\LeetcodeContest\bin\Debug\LeetcodeContest.exe.config
+C:\Users\Nik\Desktop\Coding\MSCA - Projects\LeetcodeContest\bin\Debug\LeetcodeContest.exe
+C:\Users\Nik\Desktop\Coding\MSCA - Projects\LeetcodeContest\bin\Debug\LeetcodeContest.pdb
+C:\Users\Nik\Desktop\Coding\MSCA - Projects\LeetcodeContest\obj\Debug\LeetcodeContest.csprojAssemblyReference.cache
+C:\Users\Nik\Desktop\Coding\MSCA - Projects\LeetcodeContest\obj\Debug\LeetcodeContest.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Coding\MSCA - Projects\LeetcodeContest\obj\Debug\LeetcodeContest.exe
+C:\Users\Nik\Desktop\Coding\MSCA - Projects\LeetcodeContest\obj\Debug\LeetcodeContest.pdb
